@@ -16,7 +16,7 @@ Lithium-ion batteries exhibit complex electrochemical behavior that is difficult
 
 
 In this tutorial, a first-order equivalent circuit model (ECM) is identified from pulse discharge test data using Python.
-
+![図1](https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part1-Parameter-Identification/blob/main/images/ecm_battery.png)
 
 The workflow covers:
 
