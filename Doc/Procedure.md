@@ -3,9 +3,7 @@
 The raw test data contain SOC adjustment periods and other sections that are not suitable for parameter identification.
  
 Since manually removing these data is tedious and error-prone, a Python script was developed to automatically extract only the relevant regions required for parameter identification.
-![raw](https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part1-Parameter-Identification/blob/main/images/pulsed_data.png)
-![trimmed](https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part1-Parameter-Identification/blob/main/images/extracted_pulsed.png)
-
+![raw]([https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part1-Parameter-Identification/blob/main/images/pulsed_data.png)
  
 As a preprocessing step, the initial SOC adjustment section was removed, and the OCV value for each SOC condition was added manually.
 ![1cell](https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part1-Parameter-Identification/blob/main/images/data_for_analysis.png)
