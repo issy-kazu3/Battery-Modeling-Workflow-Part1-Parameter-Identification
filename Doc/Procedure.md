@@ -8,6 +8,9 @@ Since manually removing these data is tedious and error-prone, a Python script w
 
  
 As a preprocessing step, the initial SOC adjustment section was removed, and the OCV value for each SOC condition was added manually.
+![1cell](
+
+
  
 ## 2) Parameter Identification (Ri, Rp, C)
 
