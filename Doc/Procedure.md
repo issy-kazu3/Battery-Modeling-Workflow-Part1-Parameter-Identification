@@ -16,6 +16,7 @@ As a preprocessing step, the initial SOC adjustment section was removed, and the
 
 
 Using the processed data, another Python program was developed to identify the equivalent circuit model parameters (Ri, Rp, and C) for each SOC condition.
+Ri will be instantly calculated with Vi. Rp,C will be calculated by the fitting of model formula as below.
 
 ![fitting](https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part1-Parameter-Identification/blob/main/images/parameter_fitting.png)
  
