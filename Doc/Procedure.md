@@ -35,4 +35,4 @@ This process produced the cell characteristic map shown below.
  
 In the next article, the extracted parameters will be used to perform battery simulation and compare the results with measured data.
 
-![IRMAP]()
+![IRMAP](https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part1-Parameter-Identification/blob/main/images/IRMAP.png)
