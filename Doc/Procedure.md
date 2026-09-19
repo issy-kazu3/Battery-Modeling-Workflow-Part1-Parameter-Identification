@@ -20,7 +20,8 @@ Ri will be instantly calculated with Vi. Rp,C will be calculated by the fitting 
  
 
 The resulting parameter set is shown below.
-![parameter]()
+
+![parameter](https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part1-Parameter-Identification/blob/main/images/parameters.png)
 
 
  
@@ -33,4 +34,5 @@ Finally, the identified parameters were organized into tables according to SOC a
 This process produced the cell characteristic map shown below.
  
 In the next article, the extracted parameters will be used to perform battery simulation and compare the results with measured data.
-``
+
+![IRMAP]()
