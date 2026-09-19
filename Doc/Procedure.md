@@ -18,8 +18,12 @@ Ri will be instantly calculated with Vi. Rp,C will be calculated by the fitting 
 
 ![fitting](https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part1-Parameter-Identification/blob/main/images/parameter_fitting.png)
  
+
 The resulting parameter set is shown below.
- 
+![parameter]()
+
+
+ 
 RMSE was used as an error metric. Data sets with exceptionally large RMSE values were considered outliers and excluded from further analysis.
  
 ## 3) Cell Characteristic Map Generation
